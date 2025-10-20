@@ -1,8 +1,8 @@
 // --- CONFIGURAÇÕES GLOBAIS ---
 const COLS = 30;
 const ROWS = 22;
-const CANVAS_WIDTH = 1200;
-const CANVAS_HEIGHT = 900;
+const CANVAS_WIDTH = 1000;
+const CANVAS_HEIGHT = 750;
 
 // Constantes dos tipos de terreno
 const TERRAIN_LOW_COST = 0;   // Areia
